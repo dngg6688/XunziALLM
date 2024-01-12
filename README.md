@@ -9,14 +9,15 @@
 
 随着科技的飞速发展，人工智能已深入到各个领域。为响应古籍活化利用号召，推动大语言模型与古籍处理深度融合，以古籍智能化的研究为目的，南京农业大学国家社科基金重大项目“中国古代典籍跨语言知识库构建及应用研究”课题组与中华书局古联公司推出了一系列古籍处理领域大语言模型：荀子古籍大语言模型。荀子不仅是我国先秦时期伟大的朴素唯物主义的思想家，也是一位散文大家。他在语言学理论的阐述上又是一位开拓者、奠基人。荀子系列专为古籍智能处理而设计，这一系列模型的推出将推动古籍研究与保护工作的新发展，提高中华传统文化传承的效率与质量。
 
-本次荀子系列模型开源包括两个部分：基座模型[**XunziALLM**](https://modelscope.cn/models/Xunzillm4cc/Xunzi-Qwen)，作为本次模型开源的重点，本项目推出了完全开放使用的古籍领域大模型，与此同时，为方便非人工智能领域人员更好地了解本次开源模型，我们使用一部分数据构建了对话模型[**XunziChat**](https://modelscope.cn/models/Xunzillm4cc/Xunzi-Qwen-Chat)，模型的调用方式与对应的开源大语言模型一致。用户使用同样的调用方法调用我们的模型。
+本次荀子系列模型开源包括两个部分：基座模型[**XunziALLM**]，作为本次模型开源的重点，本项目推出了完全开放使用的古籍领域大模型，与此同时，为方便非人工智能领域人员更好地了解本次开源模型，我们使用一部分数据构建了对话模型[**XunziChat**](https://modelscope.cn/models/Xunzillm4cc/Xunzi-Qwen-Chat)，模型的调用方式与对应的开源大语言模型一致,用户使用同样的调用方法调用我们的模型。
 
 当前已发布的开源模型:
-| 模型名称                       | 网盘链接                                                     |对应开源模型          |
+| 模型名称                       | 下载链接                                                     |对应开源模型          |
 | :----------------------------- | :----------------------------------------------------------- | :----------------|
-|Xunzi-Qwen-7B    | [链接](https://modelscope.cn/models/Xunzillm4cc/Xunzi-Qwen) |千问系列|
-|Xunzi-Qwen-7B-CHAT  | [链接](https://modelscope.cn/models/Xunzillm4cc/Xunzi-Qwen-Chat) |千问系列|
-
+|Xunzi-Qwen-7B（基座模型）    | [链接](https://modelscope.cn/models/Xunzillm4cc/Xunzi-Qwen) |Qwen-7B基座模型|
+|Xunzi-Qwen-7B-CHAT（对话模型）  | [链接](https://modelscope.cn/models/Xunzillm4cc/Xunzi-Qwen-Chat) |Qwen-7B对话模型|
+|Xunzi-GLM-6B（基座模型）  | [链接](https://modelscope.cn/models/Xunzillm4cc/Xunzi-GLM) |ChatGLM-6B基座模型|
+|Xunzi-Baichuan-7B（基座模型）  | [链接](https://modelscope.cn/models/Xunzillm4cc/Xunzi-Baichuan) |Baichuan2-7B基座模型|
 
 
 ## 荀子系列模型亮点：
