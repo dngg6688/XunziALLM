@@ -21,7 +21,9 @@
 |Xunzi-Baichuan-7B（基座模型）  | [链接](https://modelscope.cn/models/Xunzillm4cc/Xunzi-Baichuan) |Baichuan2-7B基座模型|
 
 Xunzi-Qwen-7B与Xunzi-Qwen-7B-CHAT调用方式与Qwen模型相同。
+
 Xunzi-GLM-6B调用方式与ChatGLM3-6B模型相同。
+
 Xunzi-Baichuan-7B调用方式与Baichuan2-7B模型相同。
 
 ## 荀子系列模型亮点：
