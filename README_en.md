@@ -6,7 +6,22 @@
 
 With the rapid development of science and technology, artificial intelligence has penetrated into various fields. In response to the call for the activation and utilization of ancient books, to promote the in-depth integration of large language models and ancient book processing, and for the purpose of researching the intelligence of ancient books, the research group of the National Social Science Fund major project of Nanjing Agricultural University "Research on the Construction and Application of Cross-Language Knowledge Base of Ancient Chinese Classics" together with Zhonghua Book Company Gulian (Beijing) Media Tech Company, we launched a series of large-scale language models in the field of ancient books processing: Xunzi large language model of ancient books. Xunzi was not only a great simple materialist thinker in my country's pre-Qin period, but also a master of prose. He is also a pioneer and founder in the elaboration of linguistic theory. The Xunzi series is specially designed for intelligent processing of ancient books. The launch of this series of models will promote new developments in the research and protection of ancient books, and improve the efficiency and quality of the inheritance of Chinese traditional culture.
 
-The Xunzi series model open source includes two parts: the base model [**XunziALLM**](https://modelscope.cn/models/Xunzillm4cc/Xunzi-Qwen), as a key focus of this open source model, this project has launched a fully open model for the field of ancient books. At the same time, to facilitate non artificial intelligence professionals to better understand this open source model, we have used some data to construct a dialogue model [**XunziChat**](https://modelscope.cn/models/Xunzillm4cc/Xunzi-Qwen-Chat). The calling method of the model is consistent with Alibaba Cloud's Qwen series of large models.
+The Xunzi series model open source includes two parts: the base model [**XunziALLM**](https://modelscope.cn/models/Xunzillm4cc/Xunzi-Qwen), as a key focus of this open source model, this project has launched a fully open model for the field of ancient books. At the same time, to facilitate non artificial intelligence professionals to better understand this open source model, we have used some data to construct a dialogue model [**XunziChat**](https://modelscope.cn/models/Xunzillm4cc/Xunzi-Qwen-Chat).Users can call our ancient books processing model using the same method as calling the corresponding open source models such as Qianwen, Baichuan2, ChatGLM3, etc.
+
+ Currently released ancient books processing models:
+ 
+ | Model Name | Download Link | Corresponding Open Source Model |
+ | :----------------------------- | :----------------------------------------------------------- | :--------------------------------|
+ |Xunzi-Qwen-7B (base model) | [link](https://modelscope.cn/models/Xunzillm4cc/Xunzi-Qwen) | Qwen-7B base model |
+ |Xunzi-Qwen-7B-CHAT (chat model) | [link](https://modelscope.cn/models/Xunzillm4cc/Xunzi-Qwen-Chat) | Qwen-7B chat model |
+ |Xunzi-GLM-6B (base model) | [link](https://modelscope.cn/models/Xunzillm4cc/Xunzi-GLM) | ChatGLM3-6B base model |
+ |Xunzi-Baichuan-7B (base model) | [link](https://modelscope.cn/models/Xunzillm4cc/Xunzi-Baichuan) | Baichuan2-7B base model |
+ 
+ Xunzi-Qwen-7B and Xunzi-Qwen-7B-CHAT are called in the same way as Qwen model.
+ 
+ Xunzi-GLM-6B is called in the same way as ChatGLM3-6B model.
+ 
+ Xunzi-Baichuan-7B is called in the same way as Baichuan2-7B model.
 
 ## Highlights of Xunzi Series models:
 
