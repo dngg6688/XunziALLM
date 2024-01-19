@@ -15,7 +15,7 @@
 
 | 模型名称                       | 下载链接                                                     |对应开源模型          |
 | :----------------------------- | :----------------------------------------------------------- | :----------------|
-|Xunzi-Qwen-7B（基座模型）    | [链接](https://modelscope.cn/models/Xunzillm4cc/Xunzi-Qwen) |Qwen-7B基座模型|
+|Xunzi-Qwen-7B（基座模型）    | [链接](https://modelscope.cn/models/Xunzillm4cc/Xunzi-Qwen) |Qwen-7B基座模型（版本v1.0.5）|
 |Xunzi-Qwen-7B-CHAT（对话模型）  | [链接](https://modelscope.cn/models/Xunzillm4cc/Xunzi-Qwen-Chat) |Qwen-7B对话模型|
 |Xunzi-GLM-6B（基座模型）  | [链接](https://modelscope.cn/models/Xunzillm4cc/Xunzi-GLM) |ChatGLM3-6B基座模型|
 |Xunzi-Baichuan-7B（基座模型）  | [链接](https://modelscope.cn/models/Xunzillm4cc/Xunzi-Baichuan) |Baichuan2-7B基座模型|
