@@ -26,8 +26,8 @@ Xunzi-GLM-6B调用方式与ChatGLM3-6B模型相同。
 
 Xunzi-Baichuan-7B调用方式与Baichuan2-7B模型相同。
 
-# 新闻
-2024.1.16 更新github项目开源模型列表。
+## 新闻 
+- 2024/1/16 更新github项目开源模型列表。
 
 ## 荀子系列模型亮点：
 
