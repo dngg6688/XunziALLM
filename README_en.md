@@ -4,8 +4,6 @@
 
 # XunziALLM
 
-With the rapid development of science and technology, artificial intelligence has penetrated into various fields. In response to the call for the activation and utilization of ancient books, to promote the in-depth integration of large language models and ancient book processing, and for the purpose of researching the intelligence of ancient books, the research group of the National Social Science Fund major project of Nanjing Agricultural University "Research on the Construction and Application of Cross-Language Knowledge Base of Ancient Chinese Classics" together with Zhonghua Book Company Gulian (Beijing) Media Tech Company, we launched a series of large-scale language models in the field of ancient books processing: Xunzi large language model of ancient books. Xunzi was not only a great simple materialist thinker in my country's pre-Qin period, but also a master of prose. He is also a pioneer and founder in the elaboration of linguistic theory. The Xunzi series is specially designed for intelligent processing of ancient books. The launch of this series of models will promote new developments in the research and protection of ancient books, and improve the efficiency and quality of the inheritance of Chinese traditional culture.
-
 The Xunzi series model open source includes two parts: the base model [**XunziALLM**](https://modelscope.cn/models/Xunzillm4cc/Xunzi-Qwen), as a key focus of this open source model, this project has launched a fully open model for the field of ancient books. At the same time, to facilitate non artificial intelligence professionals to better understand this open source model, we have used some data to construct a dialogue model [**XunziChat**](https://modelscope.cn/models/Xunzillm4cc/Xunzi-Qwen-Chat).Users can call our ancient books processing model using the same method as calling the corresponding open source models such as Qianwen, Baichuan2, ChatGLM3, etc.
 
  Currently released ancient books processing models:
@@ -48,12 +46,6 @@ The Xunzi series model open source includes two parts: the base model [**XunziAL
 ![punctuation](./examples/punctuation.png)
 
 Since we also released the base model, users can also use personal training corpus to fine-tune the Xunzi base model according to their own needs, so that it can achieve better processing performance in downstream processing tasks of ancient books.
-
-## Acknowledgements：
-* Associate professor Shen Si,Nanjing University of Science and Technology，Provide technical support for large model training
-* Doctor Zhu Danhao, Jiangsu Police Institute, Provide model parameter tuning
-* Professor Li Bin, Nanjing Normal University, Provide knowledge support in the field of ancient literature
-* Associate researcher Ma Xueliang, National Library of China，Provide knowledge related to classical philology
 
 ## Statement:
 
