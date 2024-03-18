@@ -4,7 +4,7 @@
 
 # XunziALLM
 
-The Xunzi series model open source includes two parts: the base model [**XunziALLM**](https://modelscope.cn/models/Xunzillm4cc/Xunzi-Qwen), as a key focus of this open source model, this project has launched a fully open model for the field of ancient books. At the same time, to facilitate non artificial intelligence professionals to better understand this open source model, we have used some data to construct a dialogue model [**XunziChat**](https://modelscope.cn/models/Xunzillm4cc/Xunzi-Qwen-Chat).Users can call our ancient books processing model using the same method as calling the corresponding open source models such as Qianwen, Baichuan2, ChatGLM3, etc.
+The Xunzi series model open source includes two parts: the base model [**XunziALLM**](https://modelscope.cn/models/Xunzillm4cc/Xunzi-Qwen), as a key focus of this open source model, this project has launched a fully open model for the field of ancient books. At the same time, to facilitate non artificial intelligence professionals to better understand this open source model, we have used some data to construct a dialogue model [**XunziChat**](https://modelscope.cn/models/Xunzillm4cc/Xunzi-Qwen-Chat).Users can call our ancient books processing model using the same method as calling the corresponding open source models such as Qwen, Baichuan2, ChatGLM3, etc.
 
  Currently released ancient books processing models:
  
