@@ -14,7 +14,7 @@ from PIL import Image
 image = Image.open('荀子logonew.png')
 st.sidebar.image(image, width=300)
 # 设置为模型ID或本地文件夹路径
-model_path = "/content/XunziALLM/Xunzi-Qwen-Chat"
+model_path = "/content/XunziALLM/Xunzi-Qwen-Chat/Xunzillm4cc/Xunzi-Qwen-Chat"
 
 @st.cache_resource
 def get_model():
